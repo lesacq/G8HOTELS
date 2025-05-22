@@ -48,7 +48,7 @@ All actions and information are logged to a file named `hotel.txt`.
 ## License
 
 This project is for educational purposes.
-HOTEL MANAGEMENT PAGE - ![Htel management system-intro](https://github.com/user-attachments/assets/c0e83152-adb7-4481-8539-cb8cebb9a70f)
+
 
 ADMIN PAGE-![HMS-admin page](https://github.com/user-attachments/assets/adcfc140-001c-45ee-ae5e-21e0b6e21ed3)
 
